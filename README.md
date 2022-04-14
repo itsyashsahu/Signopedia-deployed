@@ -46,7 +46,7 @@ I had collected the images from a public dataset on Kaggle. You can download it 
 (`/processed data`) folder.<br>
 <div class="row">
   <div class="col">
-     <img target="_blank" src="https://storage.googleapis.com/kaggle-datasets-images/82373/191501/4f9f4f59d288718705ff67449bbc8e66/dataset-cover.jpg?t=2018-11-25-18-48-30" alt="Cover image" class="sc-cHcdSN hOWCHl">
+     <img target="_blank" src="dataset-cover.jpg" alt="Cover image" class="sc-cHcdSN hOWCHl">
   </div>
 </div>
 

@@ -15,8 +15,6 @@
   - [Samples Gallery](#samples-gallery)
   - [Overview](#overview)
   - [Motivation/Purpose](#motivationpurpose)
-  - [Technical Aspect](#technical-aspect)
-      - [This project is divided into Four major parts](#this-project-is-divided-into-four-major-parts)
   - [Data collection](#data-collection)
   - [Run](#run)
   - [Technologies Used](#technologies-used)

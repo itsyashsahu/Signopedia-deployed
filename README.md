@@ -15,6 +15,8 @@
   - [Samples Gallery](#samples-gallery)
   - [Overview](#overview)
   - [Motivation/Purpose](#motivationpurpose)
+  - [Technical Aspect](#technical-aspect)
+      - [This project is divided into Four major parts](#this-project-is-divided-into-four-major-parts)
   - [Data collection](#data-collection)
   - [Run](#run)
   - [Technologies Used](#technologies-used)
@@ -95,21 +97,18 @@ Go to the following URL to try out our app:
 * http://43.204.47.110/
 
 ## Technologies Used
+<div style="display:grid,grid-template-column:repeat(2,1fr); grid-gap:1000px">
 
-<img src="https://www.sketchappsources.com/resources/source-image/python-logo.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Python Logo Sketch freebie - Download free resource for Sketch - Sketch App  Sources" data-noaft="1" style="width: 434px; height: 325.5px; margin: 0px;">
-<br><br><br>
-<img target="_blank" src="https://blog.keras.io/img/keras-tensorflow-logo.jpg" width=400>
-<br><br><br>
-<img target="_blank" src="screenshots\next-JS-framework.png" width=400>
-<br><br><br>
-<img target="_blank" src="screenshots\DjangoFeaturedImage.jpeg" width=400>
-<br><br><br>
-<img target="_blank" src="screenshots\aws.avif" width=400>
-<br><br><br>
-<img target="_blank" src="screenshots\Amazon-EC2.jpg" width=400>
-<br><br><br>
-<img target="_blank" src="screenshots\Docker.png" width=400>
-<br><br><br>
-<img target="_blank" src="screenshots\Nginx.jpg" width=400>
-<br><br><br>
-<img target="_blank" src="https://images.prismic.io/qovery/6f51c703-9e24-49e8-a462-abe2b2c08991_kubernetes.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50" width=400>
+
+<img src="https://www.sketchappsources.com/resources/source-image/python-logo.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Python Logo Sketch freebie - Download free resource for Sketch - Sketch App  Sources" data-noaft="1" style="width: 434px; height: 200px; margin: 0px;">
+<img style="padding:20px" target="_blank" src="https://blog.keras.io/img/keras-tensorflow-logo.jpg" width=400>
+<img style="padding:20px" target="_blank" src="screenshots\next-JS-framework.png" width=400>
+<img style="padding:20px" target="_blank" src="screenshots\DjangoFeaturedImage.jpeg" width=400>
+<img style="padding:20px" target="_blank" src="screenshots\aws.avif" width=400>
+<img style="padding:20px" target="_blank" src="screenshots\Amazon-EC2.jpg" width=400>
+<img style="padding:20px" target="_blank" src="screenshots\Docker.png" width=400>
+<img style="padding:20px" target="_blank" src="screenshots\Nginx.jpg" width=400>
+<img style="padding:20px" target="_blank" src="https://images.prismic.io/qovery/6f51c703-9e24-49e8-a462-abe2b2c08991_kubernetes.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50" width=400>
+
+</div>
+

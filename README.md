@@ -5,6 +5,21 @@
 * http://ec2-43-204-47-110.ap-south-1.compute.amazonaws.com/
 * http://43.204.47.110/
 
+### NOTE --
+
+Please check if the protocol of link is http not https.
+in case if the link didn't worked please use the links to copy paste
+
+```
+http://ec2-43-204-47-110.ap-south-1.compute.amazonaws.com/
+```
+
+```
+http://43.204.47.110/
+```
+
+we do not have the SSL certificate. we tried a lot to configure SSL the the for IP address but It asked for a domain which we didn't felt to invest in.
+
 <br>
 
 ## Table of Content

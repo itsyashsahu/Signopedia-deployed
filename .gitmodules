@@ -4,6 +4,3 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/itsyashsahu/Signopedia.git
-[submodule "frontend1"]
-	path = frontend1
-	url = https://github.com/itsyashsahu/Signopedia

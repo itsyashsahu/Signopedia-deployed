@@ -1,6 +1,8 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/vanshksharma/Signopedia-Deployment.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/itsyashsahu/Signopedia.git
+	url = https://github.com/itsyashsahu/Signopedia
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/vanshksharma/Signopedia-Deployment
+	branch = main

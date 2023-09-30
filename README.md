@@ -1,9 +1,14 @@
 # Signopedia
 
-## Links to access the app
+## Below Links and backend is no longer accessable since AWS Free tier had been expired 
+## Links to access the Frontend app
 
-* http://ec2-43-204-47-110.ap-south-1.compute.amazonaws.com/
-* http://43.204.47.110/
+* https://signopedia.vercel.app
+
+  Below Links and backend is no longer accessable since AWS Free tier had been expired 
+
+  http://ec2-43-204-47-110.ap-south-1.compute.amazonaws.com/
+  http://43.204.47.110/
 
 ### NOTE --
 
